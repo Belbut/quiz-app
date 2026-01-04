@@ -32,6 +32,20 @@ cd quiz-app
 ```
 
 3. Open `quiz-app.html` in your web browser
+#### Windows
+```bash
+start quiz-app.html
+```
+
+#### macOS
+```bash
+open quiz-app.html
+```
+
+#### Linux
+```bash
+xdg-open quiz-app.html
+```
 
 ### Usage
 
